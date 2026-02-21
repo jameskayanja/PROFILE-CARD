@@ -1,0 +1,14 @@
+body{     
+background-color:green;
+text-align: center; 
+}
+.container{
+    background-color:beige;
+    padding: 30PX;
+    border-radius: 10px;
+    align-items: center;
+    border-style: solid;
+    margin-right: 450px;
+    margin-left: 450px;
+}
+
